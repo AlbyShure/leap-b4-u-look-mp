@@ -1,0 +1,450 @@
+h1 {
+  color: aqua;
+  background: orange;
+  border-style: double;
+  font-family: cursive;
+  background-image: url('keely.jpeg');
+  background-size: 2000px 500px;
+  text-align: center;
+}
+
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-image: url('more orange.jpg');
+    border-radius: 75px 75px;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+
+.bar-wrapper {
+    height: 300px;
+    position: relative;
+}
+.bar {
+    position: relative;
+    bottom: 0;
+    width: 5px;
+    display: inline-block;
+    border: 1px solid red;
+    height: 5px;
+    border-bottom: 3px solid #fff;
+    opacity: 0;
+}
+
+body {
+  background: teal;
+   background-image: url('dark.jpg');
+   background-attachment: fixed;
+   background-size: cover;
+   padding-bottom: 100px;
+}
+
+div {
+  text-align: center;
+}
+
+p {
+  color: green;
+  font-family: Fantasy;
+  font-size: 20;
+  font-style: normal;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+#audio-file {
+background-color: orange;
+border-color: orange;
+}
+
+button {
+  background-color: orange;
+  color: #d85600;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: arial;
+  font-size: 25;
+  border-color: inherit;
+  border-spacing: inherit;
+  background-position: center;
+  background-size: cover;
+  border-radius: 100px 100px;
+  padding: 75px;
+}
+h3 {
+  text-align: center;
+}
+
+h4 {
+  color: teal;
+  font-family: fantasy;
+  font-size: 50;
+  text-align: center;
+}
+
+h2 {
+  color: orange;
+  font-family: arial;
+  font-size: 40;
+  text-align: center;
+}
+
+h5 {
+  background: transparent;
+  }
+
+#views {
+  border-radius: 100px 100px;
+  border-color: inherit;
+  border-spacing: inherit;
+  padding: 75px;
+  background-image: url('Perfect Views.jpg');
+}
+
+#play {
+  color: transparent;
+  background-image: url('play.jpg');
+  font-size: 39;
+}
+
+#pause {
+  color: transparent;
+  background-image: url('pause.jpg');
+  font-size: 39;
+}
+
+#alone {
+  padding: 75px;
+  color: transparent;
+  font-family: fantasy;
+  font-size: 100;
+  background-image: url('Alone.jpg');
+}
+
+#go {
+  padding: 75px;
+  color: transparent;
+  font-family: fantasy;
+  font-size: 100;
+  background-image: url('MLG Elsa.jpg');
+}
+
+#trndsttr {
+  padding: 75px;
+  color: transparent;
+  font-family: fantasy;
+  font-size: 100;
+  background-image: url('Trndsttr.jpg');
+}
+
+
+
+#marijuana {
+  padding: 75px;
+  color: transparent;
+  font-family: fantasy;
+  font-size: 100;
+  background-image: url('Marijuana.jpg');
+}
+
+#world {
+  padding: 75px;
+  color: transparent;
+  font-family: fantasy;
+  font-size: 100;
+  background-image: url('The Next World.png');
+}
+
+#revolution {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Revolution.jpg');
+}
+
+#ocean {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Ocean Floor Kisses.jpg');
+}
+
+#pure {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Pure.jpg');
+}
+
+#hearts {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Hearts.jpg');
+}
+
+#hyperparadise {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Hyperparadise.jpg');
+}
+
+#hyperreal {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Hyperreal.jpg');
+}
+
+#warm {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Warm Thoughts.jpg');
+}
+
+#paper {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Paper Thin.jpg');
+}
+
+#ezra {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Warm Thoughts.jpg');
+}
+
+#animals {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Animals.jpg');
+}
+
+#sleepless {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Paper Thin.jpg');
+}
+
+#lost {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Lost and Found.jpg');
+}
+
+#together {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Peace.jpg');
+}
+
+#lean {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Peace.jpg');
+}
+
+#You {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('You n Me.jpg');
+}
+
+#day {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('One Day Theyll Know.jpg');
+}
+
+#aftergold {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Aftergold.jpg');
+}
+
+#wild {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('When I Get There.jpg');
+}
+
+#play-1 {
+  padding: 75px;
+  color: transparent;
+  font-family: fantasy;
+  font-size: 100;
+  background-image: url('Endless Fantasy.jpg');
+}
+
+#play-2 {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('Valtari.jpg');
+}
+
+#play-3 {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('primo.jpg');
+}
+
+#play-4 {
+  padding: 75px
+  color: transparent;
+  font-size: 100;
+  background-image: url('arazu.jpg');
+  font-family: fantasy;
+}
+
+#play-6 {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('lilypads.jpg');
+}
+
+#play-7 {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('zZz.jpg');
+}
+
+#play-f {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('cosmos.jpg');
+}
+
+#play-h {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('cosmos.jpg');
+}
+
+#play-9 {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('cosmos.jpg');
+}
+
+#play-s {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('still looking.jpg');
+}
+
+#play-w {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('We Rise.jpg');
+}
+
+#play-10 {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('endeavors.jpg');
+}
+
+#play-11 {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('your soul.jpg');
+}
+
+#play-12 {
+  padding: 75px;
+  color: transparent;
+  font-size: 100;
+  font-family: fantasy;
+  background-image: url('falling.jpg');
+}
